@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>How I set up this Website</title>
+      <link>http://example.org/2020/06/how-i-set-up-this-website/</link>
+      <pubDate>Sat, 13 Jun 2020 21:35:01 -0700</pubDate>
+      
+      <guid>http://example.org/2020/06/how-i-set-up-this-website/</guid>
+      <description>&lt;p&gt;As a reminder for future me, and anyone who is curious, this is the set of things
+I used to set up this website.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Distractions in Quarantime</title>
       <link>http://example.org/2020/06/distractions-in-quarantime/</link>
       <pubDate>Sat, 13 Jun 2020 19:25:04 -0700</pubDate>

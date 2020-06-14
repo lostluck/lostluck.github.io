@@ -6,10 +6,37 @@
     <description>Recent content in Tags on lostluck.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2020 19:25:04 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 21:35:01 -0700</lastBuildDate>
     
 	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dev</title>
+      <link>http://example.org/tags/dev/</link>
+      <pubDate>Sat, 13 Jun 2020 21:35:01 -0700</pubDate>
+      
+      <guid>http://example.org/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distractions</title>
+      <link>http://example.org/tags/distractions/</link>
+      <pubDate>Sat, 13 Jun 2020 21:35:01 -0700</pubDate>
+      
+      <guid>http://example.org/tags/distractions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>http://example.org/tags/website/</link>
+      <pubDate>Sat, 13 Jun 2020 21:35:01 -0700</pubDate>
+      
+      <guid>http://example.org/tags/website/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>about</title>
@@ -17,15 +44,6 @@
       <pubDate>Sat, 13 Jun 2020 19:25:04 -0700</pubDate>
       
       <guid>http://example.org/tags/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>distractions</title>
-      <link>http://example.org/tags/distractions/</link>
-      <pubDate>Sat, 13 Jun 2020 19:25:04 -0700</pubDate>
-      
-      <guid>http://example.org/tags/distractions/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on lostluck.dev</title>
+    <link>https://lostluck.dev/categories/reviews/</link>
+    <description>Recent content in Reviews on lostluck.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jun 2020 19:49:37 -0700</lastBuildDate>
+    
+	<atom:link href="https://lostluck.dev/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Baba Is You</title>
+      <link>https://lostluck.dev/2020/06/baba-is-you/</link>
+      <pubDate>Sun, 21 Jun 2020 19:49:37 -0700</pubDate>
+      
+      <guid>https://lostluck.dev/2020/06/baba-is-you/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hempuli.com/baba/&#34;&gt;Baba Is You&lt;/a&gt; is a delightfully constructed puzzle game from 2017. I like it.&lt;/p&gt;
+&lt;p&gt;It features a simple but powerful mechanic of putting together rules that modify gameplay.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,37 @@
     <description>Recent content in Tags on lostluck.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2020 21:35:01 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 19:49:37 -0700</lastBuildDate>
     
 	<atom:link href="https://lostluck.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>distractions</title>
+      <link>https://lostluck.dev/tags/distractions/</link>
+      <pubDate>Sun, 21 Jun 2020 19:49:37 -0700</pubDate>
+      
+      <guid>https://lostluck.dev/tags/distractions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>games</title>
+      <link>https://lostluck.dev/tags/games/</link>
+      <pubDate>Sun, 21 Jun 2020 19:49:37 -0700</pubDate>
+      
+      <guid>https://lostluck.dev/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>puzzles</title>
+      <link>https://lostluck.dev/tags/puzzles/</link>
+      <pubDate>Sun, 21 Jun 2020 19:49:37 -0700</pubDate>
+      
+      <guid>https://lostluck.dev/tags/puzzles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>dev</title>
@@ -17,15 +44,6 @@
       <pubDate>Sat, 13 Jun 2020 21:35:01 -0700</pubDate>
       
       <guid>https://lostluck.dev/tags/dev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>distractions</title>
-      <link>https://lostluck.dev/tags/distractions/</link>
-      <pubDate>Sat, 13 Jun 2020 21:35:01 -0700</pubDate>
-      
-      <guid>https://lostluck.dev/tags/distractions/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on lostluck.dev</title>
@@ -6,13 +6,22 @@
     <description>Recent content in Tags on lostluck.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2020 20:47:50 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 19:25:04 -0700</lastBuildDate>
     
 	<atom:link href="https://lostluck.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>desk</title>
+      <title>About</title>
+      <link>https://lostluck.dev/tags/about/</link>
+      <pubDate>Sat, 13 Jun 2020 19:25:04 -0700</pubDate>
+      
+      <guid>https://lostluck.dev/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desk</title>
       <link>https://lostluck.dev/tags/desk/</link>
       <pubDate>Sat, 11 Jul 2020 20:47:50 -0700</pubDate>
       
@@ -21,43 +30,7 @@
     </item>
     
     <item>
-      <title>distractions</title>
-      <link>https://lostluck.dev/tags/distractions/</link>
-      <pubDate>Sat, 11 Jul 2020 20:47:50 -0700</pubDate>
-      
-      <guid>https://lostluck.dev/tags/distractions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>keyboards</title>
-      <link>https://lostluck.dev/tags/keyboards/</link>
-      <pubDate>Sat, 11 Jul 2020 20:47:50 -0700</pubDate>
-      
-      <guid>https://lostluck.dev/tags/keyboards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>games</title>
-      <link>https://lostluck.dev/tags/games/</link>
-      <pubDate>Sun, 21 Jun 2020 19:49:37 -0700</pubDate>
-      
-      <guid>https://lostluck.dev/tags/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>puzzles</title>
-      <link>https://lostluck.dev/tags/puzzles/</link>
-      <pubDate>Sun, 21 Jun 2020 19:49:37 -0700</pubDate>
-      
-      <guid>https://lostluck.dev/tags/puzzles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dev</title>
+      <title>Dev</title>
       <link>https://lostluck.dev/tags/dev/</link>
       <pubDate>Sat, 13 Jun 2020 21:35:01 -0700</pubDate>
       
@@ -66,20 +39,47 @@
     </item>
     
     <item>
-      <title>website</title>
-      <link>https://lostluck.dev/tags/website/</link>
-      <pubDate>Sat, 13 Jun 2020 21:35:01 -0700</pubDate>
+      <title>Distractions</title>
+      <link>https://lostluck.dev/tags/distractions/</link>
+      <pubDate>Sat, 11 Jul 2020 20:47:50 -0700</pubDate>
       
-      <guid>https://lostluck.dev/tags/website/</guid>
+      <guid>https://lostluck.dev/tags/distractions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>about</title>
-      <link>https://lostluck.dev/tags/about/</link>
-      <pubDate>Sat, 13 Jun 2020 19:25:04 -0700</pubDate>
+      <title>Games</title>
+      <link>https://lostluck.dev/tags/games/</link>
+      <pubDate>Sun, 21 Jun 2020 19:49:37 -0700</pubDate>
       
-      <guid>https://lostluck.dev/tags/about/</guid>
+      <guid>https://lostluck.dev/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyboards</title>
+      <link>https://lostluck.dev/tags/keyboards/</link>
+      <pubDate>Sat, 11 Jul 2020 20:47:50 -0700</pubDate>
+      
+      <guid>https://lostluck.dev/tags/keyboards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puzzles</title>
+      <link>https://lostluck.dev/tags/puzzles/</link>
+      <pubDate>Sun, 21 Jun 2020 19:49:37 -0700</pubDate>
+      
+      <guid>https://lostluck.dev/tags/puzzles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://lostluck.dev/tags/website/</link>
+      <pubDate>Sat, 13 Jun 2020 21:35:01 -0700</pubDate>
+      
+      <guid>https://lostluck.dev/tags/website/</guid>
       <description></description>
     </item>
     

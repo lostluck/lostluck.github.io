@@ -6,10 +6,25 @@
     <description>Recent content in Posts on lostluck.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2020 20:47:50 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 10:19:19 -0700</lastBuildDate>
     
 	<atom:link href="https://lostluck.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Go Without Generics</title>
+      <link>https://lostluck.dev/2020/10/go-without-generics/</link>
+      <pubDate>Fri, 02 Oct 2020 10:19:19 -0700</pubDate>
+      
+      <guid>https://lostluck.dev/2020/10/go-without-generics/</guid>
+      <description>&lt;p&gt;Today I gave a talk on Generics in Go, or rather, about the kinds of hoops we need
+to jump through to do something in Go when we don&amp;rsquo;t have Generics. In my case it&amp;rsquo;s
+invoking arbitrary functions together in a pipeline, like one needs to do for
+Apache Beam.&lt;/p&gt;
+
+&lt;p&gt;This post is a placeholder for an article version of the talk, but for now, here are
+the relevant links.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>WFH Desk</title>

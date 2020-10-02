@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lostluck.dev/2020/10/go-without-generics/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lostluck.dev/2020/07/wfh-desk/</loc>
     <lastmod>2020-07-11T20:47:50-07:00</lastmod>
   </url>
@@ -39,6 +44,12 @@
   </url>
   
   <url>
+    <loc>https://lostluck.dev/tags/conference/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lostluck.dev/tags/desk/</loc>
     <lastmod>2020-07-11T20:47:50-07:00</lastmod>
     <priority>0</priority>
@@ -52,7 +63,7 @@
   
   <url>
     <loc>https://lostluck.dev/categories/dev/</loc>
-    <lastmod>2020-06-13T21:35:01-07:00</lastmod>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,6 +76,24 @@
   <url>
     <loc>https://lostluck.dev/tags/games/</loc>
     <lastmod>2020-06-21T19:49:37-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lostluck.dev/tags/generics/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lostluck.dev/tags/go/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lostluck.dev/tags/gowestconf/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,7 +111,7 @@
   
   <url>
     <loc>https://lostluck.dev/posts/</loc>
-    <lastmod>2020-07-11T20:47:50-07:00</lastmod>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,6 +134,12 @@
   </url>
   
   <url>
+    <loc>https://lostluck.dev/categories/talks/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lostluck.dev/tags/website/</loc>
     <lastmod>2020-06-13T21:35:01-07:00</lastmod>
     <priority>0</priority>
@@ -112,7 +147,7 @@
   
   <url>
     <loc>https://lostluck.dev/</loc>
-    <lastmod>2020-07-11T20:47:50-07:00</lastmod>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
     <priority>0</priority>
   </url>
   

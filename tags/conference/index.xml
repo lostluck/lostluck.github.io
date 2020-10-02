@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dev on lostluck.dev</title>
-    <link>https://lostluck.dev/categories/dev/</link>
-    <description>Recent content in Dev on lostluck.dev</description>
+    <title>Conference on lostluck.dev</title>
+    <link>https://lostluck.dev/tags/conference/</link>
+    <description>Recent content in Conference on lostluck.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Oct 2020 10:19:19 -0700</lastBuildDate>
     
-	<atom:link href="https://lostluck.dev/categories/dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lostluck.dev/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,16 +24,6 @@ Apache Beam.&lt;/p&gt;
 
 &lt;p&gt;This post is a placeholder for an article version of the talk, but for now, here are
 the relevant links.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>How I set up this Website</title>
-      <link>https://lostluck.dev/2020/06/how-i-set-up-this-website/</link>
-      <pubDate>Sat, 13 Jun 2020 21:35:01 -0700</pubDate>
-      
-      <guid>https://lostluck.dev/2020/06/how-i-set-up-this-website/</guid>
-      <description>&lt;p&gt;As a reminder for future me, and anyone who is curious, this is the set of things
-I used to set up this website.&lt;/p&gt;</description>
     </item>
     
   </channel>

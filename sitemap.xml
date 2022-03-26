@@ -1,154 +1,89 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://lostluck.dev/</loc>
+    <lastmod>2022-03-25T21:59:23-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/posts/</loc>
+    <lastmod>2022-03-25T21:59:23-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/2022/03/shutternauting-on-jococruise-2022/</loc>
+    <lastmod>2022-03-25T21:59:23-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/2020/10/journal-2020-10-12/</loc>
+    <lastmod>2020-10-12T09:48:17-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/categories/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/conference/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/categories/dev/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/generics/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/go/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+  </url><url>
     <loc>https://lostluck.dev/2020/10/go-without-generics/</loc>
     <lastmod>2020-10-02T10:19:19-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://lostluck.dev/tags/gowestconf/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/categories/talks/</loc>
+    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/desk/</loc>
+    <lastmod>2020-07-11T20:47:50-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/distractions/</loc>
+    <lastmod>2020-07-11T20:47:50-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/keyboards/</loc>
+    <lastmod>2020-07-11T20:47:50-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/categories/personal/</loc>
+    <lastmod>2020-07-11T20:47:50-07:00</lastmod>
+  </url><url>
     <loc>https://lostluck.dev/2020/07/wfh-desk/</loc>
     <lastmod>2020-07-11T20:47:50-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lostluck.dev/2020/06/baba-is-you/</loc>
     <lastmod>2020-06-21T19:49:37-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://lostluck.dev/tags/games/</loc>
+    <lastmod>2020-06-21T19:49:37-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/puzzles/</loc>
+    <lastmod>2020-06-21T19:49:37-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/categories/reviews/</loc>
+    <lastmod>2020-06-21T19:49:37-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/dev/</loc>
+    <lastmod>2020-06-13T21:35:01-07:00</lastmod>
+  </url><url>
     <loc>https://lostluck.dev/2020/06/how-i-set-up-this-website/</loc>
     <lastmod>2020-06-13T21:35:01-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://lostluck.dev/tags/website/</loc>
+    <lastmod>2020-06-13T21:35:01-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/about/</loc>
+    <lastmod>2020-06-13T19:25:04-07:00</lastmod>
+  </url><url>
     <loc>https://lostluck.dev/2020/06/distractions-in-quarantime/</loc>
     <lastmod>2020-06-13T19:25:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lostluck.dev/about/</loc>
     <lastmod>2020-06-06T20:18:53-07:00</lastmod>
   </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/about/</loc>
-    <lastmod>2020-06-13T19:25:04-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/conference/</loc>
-    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/desk/</loc>
-    <lastmod>2020-07-11T20:47:50-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/dev/</loc>
-    <lastmod>2020-06-13T21:35:01-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/categories/dev/</loc>
-    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/distractions/</loc>
-    <lastmod>2020-07-11T20:47:50-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/games/</loc>
-    <lastmod>2020-06-21T19:49:37-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/generics/</loc>
-    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/go/</loc>
-    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/gowestconf/</loc>
-    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/keyboards/</loc>
-    <lastmod>2020-07-11T20:47:50-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/categories/personal/</loc>
-    <lastmod>2020-07-11T20:47:50-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/posts/</loc>
-    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/puzzles/</loc>
-    <lastmod>2020-06-21T19:49:37-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/categories/reviews/</loc>
-    <lastmod>2020-06-21T19:49:37-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/</loc>
-    <lastmod>2020-06-13T19:25:04-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/categories/talks/</loc>
-    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/tags/website/</loc>
-    <lastmod>2020-06-13T21:35:01-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lostluck.dev/</loc>
-    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
 </urlset>

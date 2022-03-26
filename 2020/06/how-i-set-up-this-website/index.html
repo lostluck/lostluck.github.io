@@ -49,77 +49,64 @@
 			<div>
 				<p>As a reminder for future me, and anyone who is curious, this is the set of things
 I used to set up this website.</p>
-
 <p>This site is set up using a combination of Github Pages for hosting, <a href="https://gohugo.io/">Hugo</a>
 for static site generation. On top of that, the actual &ldquo;gruntwork&rdquo; is being done on a Windows 10
 machine, using <a href="https://docs.microsoft.com/en-us/windows/wsl/">WSL2</a> for all the fun Linux tools.</p>
-
 <p>The process for this site started with a Windows update. WSL2 was first included with the May 2020
 update.  WSL2 has full kernel support, and IIRC, runs on a hypervisor, so it&rsquo;s pretty speedy.
 In particular, I followed <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">this guide</a>.</p>
-
 <p>Once I had an Ubuntu terminal running, I downloaded and install hugo from apt.  <code>sudo apt-get update</code> was necessary for <code>sudo apt-get install hugo</code> to work.
 From there I followed the <a href="https://gohugo.io/getting-started/quick-start/">Hugo Quick Start</a> to get
 my bearings with Hugo, and get a shell of a site working locally. I cloned the <a href="https://themes.gohugo.io/smol/">smol</a> theme for the site since it&rsquo;s minimal, and and I don&rsquo;t require a lot from the
 theme right now. Hugo lets you change that up easily later, which I&rsquo;ll probably do if I manage
 to keep up this hobby.</p>
-
 <p>I do my editing using <a href="https://code.visualstudio.com/">VS Code</a> which  I already had
 installed from a previous abandoned foray into using WSL. To my great pleasure, it was able to be
 updated to the latest version easily enough. It does appear to be running on top of WSL, since
 it&rsquo;s included in the title bar.</p>
-
 <p>For safety&rsquo;s sake I installed the
 <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl">WSL extension</a>. I&rsquo;m unsure if it&rsquo;s doing anything presently, since it&rsquo;s for opening folders in WSL, and I&rsquo;m running in
 WSL already. Better safe than inconvenienced.</p>
-
 <p>Since I&rsquo;m using TOML for Hugo configuration, I also installed <a href="https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml">Better TOML</a>. It mostly lets syntax highlighting and
 block commenting work properly. It&rsquo;s working out so far.</p>
-
 <p>My process is simple right now: I open two WSL terminals, one is for the hugo dev server using <code>hugo server -D</code>  and the other is for arbitrary commands. I open VS code with <code>code</code>, and
 create new pages with the default <code>hugo new posts/foo.md</code>. I&rsquo;ll probably see how much I can get
 working in vs code natively eventually.</p>
-
 <p>Once I had the initial site content, there was the matter of getting it to be available as a
 Github Pages site at <a href="https://lostluck.github.io">https://lostluck.github.io</a>. Fortunately, this is common enough that Hugo
 has <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">a tutorial for it</a>. I set up
 a separate private repo for the &ldquo;raw&rdquo; site, and leave the Pages repo public.</p>
-
 <p>The main gotchas I ran into revolved around Git and Github.</p>
-
 <ol>
 <li>For user Github Pages, you <em>must</em> use a <code>master</code> branch. No other branches will work. <code>gh-pages</code> is
 only for project pages.
-
 <ul>
 <li>That abandoned attempt from years ago had left me with a broken Pages site, and debugging
 that was a few hours. Do not recommend.</li>
 <li>This caused me to reset the <code>/public/</code> submodule several times too.</li>
 <li>I wish I could use a different branch name, and avoid the slavery language. Instead, I&rsquo;ll
 have to convince myself it just means a master copy.</li>
-</ul></li>
+</ul>
+</li>
 <li>Setting up secure convenient command line push access. I used a Github Personal Access Token for this, and <a href="https://stackoverflow.com/questions/18935539/authenticate-with-github-using-a-token">this StackOverflow answer</a> to correctly use it with the command line.
-
 <ul>
 <li>It was important to do this for the public directory as well. Otherwise the <code>deploy.sh</code> script Hugo would asking for my github credentials password every time.</li>
-</ul></li>
+</ul>
+</li>
 <li>Since I had downloaded the <code>smol</code> theme with a <code>git clone</code> into the site repo, it was a submodule.
 This would be fine if I didn&rsquo;t prefer a YYYY.MM.DD date format. The solution there was to rename the
 smol directory, and commit the &ldquo;delete&rdquo; change, delete the smol directory&rsquo;s <code>.git</code> folder, and rename
 it back to smol. This let me commit the theme to the site repo, vendoring it for my use. Now I can
 have my own date format, but also mutate the theme without extra complexity.</li>
 </ol>
-
 <p>Finally, I wanted to make use of the custom .dev domain I picked up last year. Github Pages
 <a href="https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site">supports custom Domains</a> easily enough. I&rsquo;m using Google Domains
 as my DNS provider, so I found <a href="https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58">an appropriate tutorial</a> to streamline the setup, but the Github Documentation
 is pretty clear.</p>
-
-<hr />
-
+<hr>
 <p>Edit 2020.06.21: When it needed to update, I discovered that my VS Code instance is
- installed in the Windows drive, and not in WSL.
- That it all works, and I can seamlessly start the IDE from the WSL terminal, and
+installed in the Windows drive, and not in WSL.
+That it all works, and I can seamlessly start the IDE from the WSL terminal, and
 access the files is fantastic.
 It seems to be using the <a href="https://code.visualstudio.com/docs/remote/remote-overview">remote development</a> under the head.</p>
 			</div>
@@ -133,15 +120,15 @@ It seems to be using the <a href="https://code.visualstudio.com/docs/remote/remo
 		<div>
 			<ul>
 				
+				<li><a href="/2022/03/shutternauting-on-jococruise-2022/">Shutternauting on JoCoCruise 2022</a></li>
+				
+				<li><a href="/2020/10/journal-2020-10-12/">Journal 2020-10-12</a></li>
+				
 				<li><a href="/2020/10/go-without-generics/">Go Without Generics</a></li>
 				
 				<li><a href="/2020/07/wfh-desk/">WFH Desk</a></li>
 				
 				<li><a href="/2020/06/baba-is-you/">Baba Is You</a></li>
-				
-				<li><a href="/2020/06/how-i-set-up-this-website/">How I set up this Website</a></li>
-				
-				<li><a href="/2020/06/distractions-in-quarantime/">Distractions in Quarantime</a></li>
 				
 			</ul>
 		</div>
@@ -150,7 +137,7 @@ It seems to be using the <a href="https://code.visualstudio.com/docs/remote/remo
 
 
 	<footer>
-	<p>&copy; 2020 <a href="https://lostluck.dev/"><b>lostluck.dev</b></a>.
+	<p>&copy; 2022 <a href="https://lostluck.dev/"><b>lostluck.dev</b></a>.
 	<a href="https://twitter.com/lostluck"><b>Twitter</b></a>.
 	<a href="https://github.com/lostluck"><b>Github</b></a>.
 	<a href="https://www.linkedin.com/in/lostluck"><b>LinkedIn</b></a>.

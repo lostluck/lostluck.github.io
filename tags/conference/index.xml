@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conference on lostluck.dev</title>
+    <title>conference on lostluck.dev</title>
     <link>https://lostluck.dev/tags/conference/</link>
-    <description>Recent content in Conference on lostluck.dev</description>
+    <description>Recent content in conference on lostluck.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2020 10:19:19 -0700</lastBuildDate>
-    
-	<atom:link href="https://lostluck.dev/tags/conference/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 02 Oct 2020 10:19:19 -0700</lastBuildDate><atom:link href="https://lostluck.dev/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go Without Generics</title>
       <link>https://lostluck.dev/2020/10/go-without-generics/</link>
@@ -21,7 +17,6 @@
 to jump through to do something in Go when we don&amp;rsquo;t have Generics. In my case it&amp;rsquo;s
 invoking arbitrary functions together in a pipeline, like one needs to do for
 Apache Beam.&lt;/p&gt;
-
 &lt;p&gt;This post is a placeholder for an article version of the talk, but for now, here are
 the relevant links.&lt;/p&gt;</description>
     </item>

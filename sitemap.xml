@@ -2,10 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lostluck.dev/tags/bikes/</loc>
+    <lastmod>2022-04-03T13:16:16-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/2022/04/burning-man-bike-2022/</loc>
+    <lastmod>2022-04-03T13:16:16-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/burningman/</loc>
+    <lastmod>2022-04-03T13:16:16-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/categories/</loc>
+    <lastmod>2022-04-03T13:16:16-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/gear/</loc>
+    <lastmod>2022-04-03T13:16:16-07:00</lastmod>
+  </url><url>
     <loc>https://lostluck.dev/</loc>
-    <lastmod>2022-03-25T21:59:23-07:00</lastmod>
+    <lastmod>2022-04-03T13:16:16-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/categories/personal/</loc>
+    <lastmod>2022-04-03T13:16:16-07:00</lastmod>
   </url><url>
     <loc>https://lostluck.dev/posts/</loc>
+    <lastmod>2022-04-03T13:16:16-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/</loc>
+    <lastmod>2022-04-03T13:16:16-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/distractions/</loc>
+    <lastmod>2022-03-25T21:59:23-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/jococruise/</loc>
+    <lastmod>2022-03-25T21:59:23-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/categories/photography/</loc>
+    <lastmod>2022-03-25T21:59:23-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/photography/</loc>
+    <lastmod>2022-03-25T21:59:23-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/procrastination/</loc>
+    <lastmod>2022-03-25T21:59:23-07:00</lastmod>
+  </url><url>
+    <loc>https://lostluck.dev/tags/shutternaut/</loc>
     <lastmod>2022-03-25T21:59:23-07:00</lastmod>
   </url><url>
     <loc>https://lostluck.dev/2022/03/shutternauting-on-jococruise-2022/</loc>
@@ -13,9 +52,6 @@
   </url><url>
     <loc>https://lostluck.dev/2020/10/journal-2020-10-12/</loc>
     <lastmod>2020-10-12T09:48:17-07:00</lastmod>
-  </url><url>
-    <loc>https://lostluck.dev/categories/</loc>
-    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
   </url><url>
     <loc>https://lostluck.dev/tags/conference/</loc>
     <lastmod>2020-10-02T10:19:19-07:00</lastmod>
@@ -35,22 +71,13 @@
     <loc>https://lostluck.dev/tags/gowestconf/</loc>
     <lastmod>2020-10-02T10:19:19-07:00</lastmod>
   </url><url>
-    <loc>https://lostluck.dev/tags/</loc>
-    <lastmod>2020-10-02T10:19:19-07:00</lastmod>
-  </url><url>
     <loc>https://lostluck.dev/categories/talks/</loc>
     <lastmod>2020-10-02T10:19:19-07:00</lastmod>
   </url><url>
     <loc>https://lostluck.dev/tags/desk/</loc>
     <lastmod>2020-07-11T20:47:50-07:00</lastmod>
   </url><url>
-    <loc>https://lostluck.dev/tags/distractions/</loc>
-    <lastmod>2020-07-11T20:47:50-07:00</lastmod>
-  </url><url>
     <loc>https://lostluck.dev/tags/keyboards/</loc>
-    <lastmod>2020-07-11T20:47:50-07:00</lastmod>
-  </url><url>
-    <loc>https://lostluck.dev/categories/personal/</loc>
     <lastmod>2020-07-11T20:47:50-07:00</lastmod>
   </url><url>
     <loc>https://lostluck.dev/2020/07/wfh-desk/</loc>

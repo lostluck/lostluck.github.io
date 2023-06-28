@@ -6,7 +6,16 @@
     <description>Recent content in conference on lostluck.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2020 10:19:19 -0700</lastBuildDate><atom:link href="https://lostluck.dev/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jun 2023 12:15:30 +0200</lastBuildDate><atom:link href="https://lostluck.dev/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talks</title>
+      <link>https://lostluck.dev/talks/</link>
+      <pubDate>Wed, 28 Jun 2023 12:15:30 +0200</pubDate>
+      
+      <guid>https://lostluck.dev/talks/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve given a few talks at conferences, largely about the Apache Beam Go SDK.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Go Without Generics</title>
       <link>https://lostluck.dev/2020/10/go-without-generics/</link>

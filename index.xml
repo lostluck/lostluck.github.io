@@ -6,7 +6,16 @@
     <description>Recent content on lostluck.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 12:54:17 -0700</lastBuildDate><atom:link href="https://lostluck.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jun 2023 12:15:30 +0200</lastBuildDate><atom:link href="https://lostluck.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talks</title>
+      <link>https://lostluck.dev/talks/</link>
+      <pubDate>Wed, 28 Jun 2023 12:15:30 +0200</pubDate>
+      
+      <guid>https://lostluck.dev/talks/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve given a few talks at conferences, largely about the Apache Beam Go SDK.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Lectric XP 2.0 Step Thru</title>
       <link>https://lostluck.dev/2022/04/lectric-xp-2.0-step-thru/</link>

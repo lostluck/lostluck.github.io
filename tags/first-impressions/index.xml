@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>first impressions on lostluck.dev</title>
+    <title>First Impressions on lostluck.dev</title>
     <link>https://lostluck.dev/tags/first-impressions/</link>
-    <description>Recent content in first impressions on lostluck.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in First Impressions on lostluck.dev</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 12:54:17 -0700</lastBuildDate><atom:link href="https://lostluck.dev/tags/first-impressions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 12:54:17 -0700</lastBuildDate>
+    <atom:link href="https://lostluck.dev/tags/first-impressions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lectric XP 2.0 Step Thru</title>
       <link>https://lostluck.dev/2022/04/lectric-xp-2.0-step-thru/</link>
       <pubDate>Sat, 16 Apr 2022 12:54:17 -0700</pubDate>
-      
       <guid>https://lostluck.dev/2022/04/lectric-xp-2.0-step-thru/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://lostluck.dev/2022/04/burning-man-bike-2022/&#34;&gt;bike&lt;/a&gt; I ordered arrived last Sunday, and I used to for my &lt;a href=&#34;.&#34; title=&#34;Return To Office&#34;&gt;RTO&lt;/a&gt; commute.
-As I said last time, it&amp;rsquo;s a &lt;a href=&#34;https://lectricebikes.com/collections/ebikes/products/xp-step-thru-white&#34;&gt;Lectric XP 2.0 Step Thru&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;tl;dr; So far so good!&lt;/p&gt;</description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://lostluck.dev/2022/04/burning-man-bike-2022/&#34;&gt;bike&lt;/a&gt; I ordered arrived last Sunday, and I used to for my &lt;a href=&#34;.&#34; title=&#34;Return To Office&#34;&gt;RTO&lt;/a&gt; commute.&#xA;As I said last time, it&amp;rsquo;s a &lt;a href=&#34;https://lectricebikes.com/collections/ebikes/products/xp-step-thru-white&#34;&gt;Lectric XP 2.0 Step Thru&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;tl;dr; So far so good!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

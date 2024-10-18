@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>keyboards on lostluck.dev</title>
+    <title>Keyboards on lostluck.dev</title>
     <link>https://lostluck.dev/tags/keyboards/</link>
-    <description>Recent content in keyboards on lostluck.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Keyboards on lostluck.dev</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2020 20:47:50 -0700</lastBuildDate><atom:link href="https://lostluck.dev/tags/keyboards/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jul 2020 20:47:50 -0700</lastBuildDate>
+    <atom:link href="https://lostluck.dev/tags/keyboards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WFH Desk</title>
       <link>https://lostluck.dev/2020/07/wfh-desk/</link>
       <pubDate>Sat, 11 Jul 2020 20:47:50 -0700</pubDate>
-      
       <guid>https://lostluck.dev/2020/07/wfh-desk/</guid>
-      <description>&lt;p&gt;Since Quarantime began, I&amp;rsquo;ve been working from home, and my
-desk solution has steadily evolved throughout that duration.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Since Quarantime began, I&amp;rsquo;ve been working from home, and my&#xA;desk solution has steadily evolved throughout that duration.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes on lostluck.dev</title>
+    <link>https://lostluck.dev/code/</link>
+    <description>Recent content in Codes on lostluck.dev</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2024 23:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lostluck.dev/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unofficial Apache Beam SDK for Go</title>
+      <link>https://lostluck.dev/beam-go/</link>
+      <pubDate>Thu, 17 Oct 2024 23:00:00 +0000</pubDate>
+      <guid>https://lostluck.dev/beam-go/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

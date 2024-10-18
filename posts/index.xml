@@ -4,112 +4,72 @@
     <title>Posts on lostluck.dev</title>
     <link>https://lostluck.dev/posts/</link>
     <description>Recent content in Posts on lostluck.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 12:54:17 -0700</lastBuildDate><atom:link href="https://lostluck.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 12:54:17 -0700</lastBuildDate>
+    <atom:link href="https://lostluck.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lectric XP 2.0 Step Thru</title>
       <link>https://lostluck.dev/2022/04/lectric-xp-2.0-step-thru/</link>
       <pubDate>Sat, 16 Apr 2022 12:54:17 -0700</pubDate>
-      
       <guid>https://lostluck.dev/2022/04/lectric-xp-2.0-step-thru/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://lostluck.dev/2022/04/burning-man-bike-2022/&#34;&gt;bike&lt;/a&gt; I ordered arrived last Sunday, and I used to for my &lt;a href=&#34;.&#34; title=&#34;Return To Office&#34;&gt;RTO&lt;/a&gt; commute.
-As I said last time, it&amp;rsquo;s a &lt;a href=&#34;https://lectricebikes.com/collections/ebikes/products/xp-step-thru-white&#34;&gt;Lectric XP 2.0 Step Thru&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;tl;dr; So far so good!&lt;/p&gt;</description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://lostluck.dev/2022/04/burning-man-bike-2022/&#34;&gt;bike&lt;/a&gt; I ordered arrived last Sunday, and I used to for my &lt;a href=&#34;.&#34; title=&#34;Return To Office&#34;&gt;RTO&lt;/a&gt; commute.&#xA;As I said last time, it&amp;rsquo;s a &lt;a href=&#34;https://lectricebikes.com/collections/ebikes/products/xp-step-thru-white&#34;&gt;Lectric XP 2.0 Step Thru&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;tl;dr; So far so good!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Burning Man Bike 2022</title>
       <link>https://lostluck.dev/2022/04/burning-man-bike-2022/</link>
       <pubDate>Sun, 03 Apr 2022 13:16:16 -0700</pubDate>
-      
       <guid>https://lostluck.dev/2022/04/burning-man-bike-2022/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m intending to go to Burning Man for a second time.
-One place where I underdid it, was getting the cheapest bike that fit.
-It was old.
-It was rusty.
-The best thing about it was its blue colour.
-It was a pain to move anything other than myself with it.&lt;/p&gt;
-&lt;p&gt;So this year, I&amp;rsquo;d like to try something different, if a bit spendier: a folding electric bike.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;m intending to go to Burning Man for a second time.&#xA;One place where I underdid it, was getting the cheapest bike that fit.&#xA;It was old.&#xA;It was rusty.&#xA;The best thing about it was its blue colour.&#xA;It was a pain to move anything other than myself with it.&lt;/p&gt;&#xA;&lt;p&gt;So this year, I&amp;rsquo;d like to try something different, if a bit spendier: a folding electric bike.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Shutternauting on JoCoCruise 2022</title>
       <link>https://lostluck.dev/2022/03/shutternauting-on-jococruise-2022/</link>
       <pubDate>Fri, 25 Mar 2022 21:59:23 -0700</pubDate>
-      
       <guid>https://lostluck.dev/2022/03/shutternauting-on-jococruise-2022/</guid>
-      <description>&lt;p&gt;Since 2013, I&amp;rsquo;ve been going on the &lt;a href=&#34;https://jococruise.com&#34;&gt;JoCoCruise&lt;/a&gt;.
-It&amp;rsquo;s also where I was when the pandemic was officially declared in 2020.&lt;/p&gt;
-&lt;p&gt;I got to go back, for JoCoCruise 2022!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Since 2013, I&amp;rsquo;ve been going on the &lt;a href=&#34;https://jococruise.com&#34;&gt;JoCoCruise&lt;/a&gt;.&#xA;It&amp;rsquo;s also where I was when the pandemic was officially declared in 2020.&lt;/p&gt;&#xA;&lt;p&gt;I got to go back, for JoCoCruise 2022!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Journal 2020-10-12</title>
       <link>https://lostluck.dev/2020/10/journal-2020-10-12/</link>
       <pubDate>Mon, 12 Oct 2020 09:48:17 -0700</pubDate>
-      
       <guid>https://lostluck.dev/2020/10/journal-2020-10-12/</guid>
-      <description>&lt;p&gt;The following was written 7 months into the pandemic, at the listed published date.
-It was a dark time.
-I then proceeded to ignore this page until 2022-03-25.&lt;/p&gt;
-&lt;p&gt;Ah well.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The following was written 7 months into the pandemic, at the listed published date.&#xA;It was a dark time.&#xA;I then proceeded to ignore this page until 2022-03-25.&lt;/p&gt;&#xA;&lt;p&gt;Ah well.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Go Without Generics</title>
       <link>https://lostluck.dev/2020/10/go-without-generics/</link>
       <pubDate>Fri, 02 Oct 2020 10:19:19 -0700</pubDate>
-      
       <guid>https://lostluck.dev/2020/10/go-without-generics/</guid>
-      <description>&lt;p&gt;Today I gave a talk on Generics in Go, or rather, about the kinds of hoops we need
-to jump through to do something in Go when we don&amp;rsquo;t have Generics. In my case it&amp;rsquo;s
-invoking arbitrary functions together in a pipeline, like one needs to do for
-Apache Beam.&lt;/p&gt;
-&lt;p&gt;This post is a placeholder for an article version of the talk, but for now, here are
-the relevant links.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Today I gave a talk on Generics in Go, or rather, about the kinds of hoops we need&#xA;to jump through to do something in Go when we don&amp;rsquo;t have Generics. In my case it&amp;rsquo;s&#xA;invoking arbitrary functions together in a pipeline, like one needs to do for&#xA;Apache Beam.&lt;/p&gt;&#xA;&lt;p&gt;This post is a placeholder for an article version of the talk, but for now, here are&#xA;the relevant links.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>WFH Desk</title>
       <link>https://lostluck.dev/2020/07/wfh-desk/</link>
       <pubDate>Sat, 11 Jul 2020 20:47:50 -0700</pubDate>
-      
       <guid>https://lostluck.dev/2020/07/wfh-desk/</guid>
-      <description>&lt;p&gt;Since Quarantime began, I&amp;rsquo;ve been working from home, and my
-desk solution has steadily evolved throughout that duration.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Since Quarantime began, I&amp;rsquo;ve been working from home, and my&#xA;desk solution has steadily evolved throughout that duration.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Baba Is You</title>
       <link>https://lostluck.dev/2020/06/baba-is-you/</link>
       <pubDate>Sun, 21 Jun 2020 19:49:37 -0700</pubDate>
-      
       <guid>https://lostluck.dev/2020/06/baba-is-you/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://hempuli.com/baba/&#34;&gt;Baba Is You&lt;/a&gt; is a delightfully constructed puzzle game from 2017. I like it.&lt;/p&gt;
-&lt;p&gt;It features a simple but powerful mechanic of putting together rules that modify gameplay.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hempuli.com/baba/&#34;&gt;Baba Is You&lt;/a&gt; is a delightfully constructed puzzle game from 2017. I like it.&lt;/p&gt;&#xA;&lt;p&gt;It features a simple but powerful mechanic of putting together rules that modify gameplay.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How I set up this Website</title>
       <link>https://lostluck.dev/2020/06/how-i-set-up-this-website/</link>
       <pubDate>Sat, 13 Jun 2020 21:35:01 -0700</pubDate>
-      
       <guid>https://lostluck.dev/2020/06/how-i-set-up-this-website/</guid>
-      <description>&lt;p&gt;As a reminder for future me, and anyone who is curious, this is the set of things
-I used to set up this website.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As a reminder for future me, and anyone who is curious, this is the set of things&#xA;I used to set up this website.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Distractions in Quarantime</title>
       <link>https://lostluck.dev/2020/06/distractions-in-quarantime/</link>
       <pubDate>Sat, 13 Jun 2020 19:25:04 -0700</pubDate>
-      
       <guid>https://lostluck.dev/2020/06/distractions-in-quarantime/</guid>
-      <description>&lt;p&gt;This situation doesn&amp;rsquo;t feel real. Time isn&amp;rsquo;t passing as it normally does. As it &lt;em&gt;should&lt;/em&gt;.
-It&amp;rsquo;s not really a quarantine.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s Quarantime.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This situation doesn&amp;rsquo;t feel real. Time isn&amp;rsquo;t passing as it normally does. As it &lt;em&gt;should&lt;/em&gt;.&#xA;It&amp;rsquo;s not really a quarantine.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s Quarantime.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

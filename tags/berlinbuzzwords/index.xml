@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>berlinbuzzwords on lostluck.dev</title>
+    <title>Berlinbuzzwords on lostluck.dev</title>
     <link>https://lostluck.dev/tags/berlinbuzzwords/</link>
-    <description>Recent content in berlinbuzzwords on lostluck.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Berlinbuzzwords on lostluck.dev</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2023 12:15:30 +0200</lastBuildDate><atom:link href="https://lostluck.dev/tags/berlinbuzzwords/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jun 2023 12:15:30 +0200</lastBuildDate>
+    <atom:link href="https://lostluck.dev/tags/berlinbuzzwords/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Talks</title>
       <link>https://lostluck.dev/talks/</link>
       <pubDate>Wed, 28 Jun 2023 12:15:30 +0200</pubDate>
-      
       <guid>https://lostluck.dev/talks/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve given a few talks at conferences, largely about the Apache Beam Go SDK.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

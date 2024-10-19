@@ -1,6 +1,6 @@
 ---
 title: New Look, Maybe more updates?
-date: 2024-10-19T05:00:00.000Z
+date: 2024-10-18T22:00:00.000Z
 tags: [dev, distractions, website]
 categories: [Dev]
 ---

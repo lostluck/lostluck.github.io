@@ -14,7 +14,6 @@ summaryLength = 70
   description = "Robert Burke's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
@@ -27,11 +26,11 @@ summaryLength = 70
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
+#[taxonomies]
+#  category = "categories"
+#  series = "series"
+#  tag = "tags"
+#  author = "authors"
 
 # Header
 [menu]

@@ -1,0 +1,113 @@
+baseURL = "https://lostluck.dev/"
+languageCode = "en-us"
+title = "lostluck.dev"
+theme = "hugo-coder"
+summaryLength = 70
+
+[permalinks]
+  posts = "/:year/:month/:title/"
+  code = "/:filename/"
+
+[params]
+  author = "Robert Burke"
+  info = "Distributed Gopher Wrangler"
+  description = "Robert Burke's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2020
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 1 
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 2 
+  [[menu.main]]
+        identifier = "talks"
+        name = "Talks"
+        url = "/talks/"
+        weight = 3 
+ # [[menu.main]]
+ #       identifier = "codes"
+ #       name = "Code"
+ #       url = "/code/"
+ #       weight = 5 
+
+#  [[menu.main]]
+#        identifier = "categories"
+#        name = "Categories"
+#        url = "/categories/"
+#        weight = 23 
+
+ [[menu.main]]
+      identifier = "tags"
+       name = "Tags"
+       url = "/tags/"
+       weight = 4
+
+# Social links
+[[params.social]]
+      name = "Bluesky"
+      icon = "fa-brands fa-bluesky fa-2x"
+      weight = 1
+      url = "https://bsky.app/profile/lostluck.dev"
+[[params.social]]
+      name = "Github"
+      icon = "fa-brands fa-github fa-2x"
+      weight = 2
+      url = "https://github.com/lostluck/"
+# [[params.social]]
+#        name = "Twitch"
+#        icon = "fa-brands fa-twitch fa-2x"
+#        url = "https://twitch.tv/lostluckdev"
+#        weight = 3 
+    
+[[params.social]]
+      name = "LinkedIn"
+      icon = "fa-brands fa-linkedin fa-2x"
+      weight = 4
+      url = "https://www.linkedin.com/in/lostluck"
+[[params.social]]
+      name = "Twitter"
+      icon = "fa-brands fa-x-twitter fa-2x"
+      weight = 5
+      url = "https://twitter.com/lostluck/"
+
+[markup]
+  [markup.highlight]
+    style = "github-dark"
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    tabWidth = 4

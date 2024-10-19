@@ -56,8 +56,6 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
         run: |
-          ls themes/*
-          pwd
           hugo \
             --gc \
             --minify \

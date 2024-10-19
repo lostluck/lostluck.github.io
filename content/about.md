@@ -31,6 +31,7 @@ Bluesky: https://bsky.app/profile/lostluck.dev
 Twitter: https://twitter.com/lostluck
 GitHub: https://github.com/lostluck
 LinkedIn: https://www.linkedin.com/in/lostluck
+Instagram: https://www.instagram.com/lostluckdev
 Apache: lostluck@apache.org  
 
 <!-- Twitch.tv : https://twitch.tv/lostluckdev  -->

@@ -51,7 +51,7 @@ which we've called Prism. From my experience on my eclipse trip, I can
 say with authority that prism are how you really play with and manipulate
 light.
 
-I have an experiment I hope to launch soon, that I'll write about here.
+I have a <i class="fa-brands fa-golang"></i> experiment I hope to launch soon, that I'll write about here.
 Learning and trying to express those lessons out in the open is powerful.
 I'd like to share, and get better at that.
 

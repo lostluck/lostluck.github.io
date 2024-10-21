@@ -4,20 +4,23 @@ title = "lostluck.dev"
 theme = "hugo-coder"
 summaryLength = 70
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [permalinks]
   posts = "/:year/:month/:title/"
   code = "/:filename/"
 
 [params]
   author = "Robert Burke"
-  info = "Distributed Gopher Wrangler"
+  info = "Distributed <i class=\"fa-brands fa-golang\"></i> Gopher Wrangler"
   description = "Robert Burke's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  faviconSVG = "images/bath-solid.svg"
+  favicon_32 = "images/favicon-32x32.png"
+  favicon_16 = "images/favicon-16x16.png"
 
   since = 2020
 
@@ -97,6 +100,7 @@ summaryLength = 70
 [[params.social]]
       name = "Twitter"
       icon = "fa-brands fa-twitter fa-2x"
+      # icon = "fa-solid fa-dumpster-fire fa-2x"
       weight = 6
       url = "https://twitter.com/lostluck/"
 

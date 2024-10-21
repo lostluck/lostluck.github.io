@@ -6,6 +6,7 @@ tags:
  - go
  - gowestconf
  - conference
+ - beam
 categories:
  - Dev
  - Talks

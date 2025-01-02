@@ -40,7 +40,7 @@ I did a big trip to see the 2024 Solar Eclipse. That was great! Got to see fancy
 telescopes in New Mexico and other neat sites. And of course, my second Eclipse!
 I should write about that trip, but given my track record, I may not.
 
-I might use Elipses to schedule future travel. I may not do Spain/Iceland in
+I might use Eclipses to schedule future travel. I may not do Spain/Iceland in
 2026, but I've already begun arrangements for Egypt in 2027.
 
 I had my heart broken thought assumptions and missed opportunities.

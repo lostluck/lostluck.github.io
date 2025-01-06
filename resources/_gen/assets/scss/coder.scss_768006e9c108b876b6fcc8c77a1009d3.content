@@ -10637,11 +10637,8 @@ figure {
       .content article footer .see-also h3 {
         margin: 3.2rem 0; }
   .content article p {
-    text-align: justify;
-    text-justify: auto;
-    -ms-hyphens: auto;
-    -webkit-hyphens: auto;
-    hyphens: auto; }
+    white-space: normal;
+    width: 60rem; }
   .content .post .post-title {
     margin-bottom: 0.75em; }
   .content .post .post-meta i {

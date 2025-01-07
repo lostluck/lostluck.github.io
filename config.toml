@@ -18,7 +18,7 @@ unsafe = true
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
 
-  faviconSVG = "images/bath-solid.svg"
+  faviconSVG = "images/glasses.svg"
   favicon_32 = "images/favicon-32x32.png"
   favicon_16 = "images/favicon-16x16.png"
 

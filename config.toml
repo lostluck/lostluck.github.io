@@ -29,10 +29,10 @@ unsafe = true
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-#[taxonomies]
-#  category = "categories"
+[taxonomies]
+  category = "categories"
 #  series = "series"
-#  tag = "tags"
+  tag = "tags"
 #  author = "authors"
 
 # Header

@@ -2,7 +2,7 @@
 date: 2025-01-03T08:29:00-08:00
 title: "A Summary of 2024 Travel"
 tags: [travel, summary, go, gophercon, beam, jococruise]
-categories: [Travel]
+categories: [Travel, Personal]
 ---
 
 I did a bunch of travel in 2024. 

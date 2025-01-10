@@ -32,14 +32,14 @@ However, the values of those maps can be any Go type at all, including any other
 
 ```go
 // nested maps, two deep.
-var mapOfMaps map[string]maps[string]string
+var mapOfMaps map[string]map[string]string
 ```
 
 And the values for those *nested* maps, can also have maps.
 
 ```go
 // nested maps, two deep.
-var mapOfMapsOfMaps map[string]maps[string]map[string]string
+var mapOfMapsOfMaps map[string]map[string]map[string]string
 ```
 
 ### Setting nested maps
@@ -54,11 +54,11 @@ value.
 ```go
 func (w *mWrapper) Set(k1,k2,k3, value string) {
     if w.Map == nil {
-        w.Map = make(map[string]maps[string]map[string]string)
+        w.Map = make(map[string]map[string]map[string]string)
     }
     v1, ok := w.Map[k1]
     if !ok {
-        v1 = make(map[string]maps[string]string)
+        v1 = make(map[string]map[string]string)
         w.Map[k1] = v1
     }
     v2, ok := v1[k2]
@@ -86,7 +86,7 @@ Using generics, we can avoid some of this!
 ```go
 func (w *mWrapper) Set(k1,k2,k3, value string) {
     if w.Map == nil {
-        w.Map = make(map[string]maps[string]map[string]string)
+        w.Map = make(map[string]map[string]map[string]string)
     }
     v1 := getOrMake(w.Map, k1)
     v2 := getOrMake(v1, k2)
